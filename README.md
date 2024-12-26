@@ -3,4 +3,4 @@
 ## Documentation
 
 La documentation de la SAE 3.02 est disponible au lieu suivant : <https://wonderland-7.gitbook.io/sae3.02/>
-La documentation du serveur 
+La documentation du serveur est disponible au lien suivant : <https://r309.readthedocs.io/en/latest/>
