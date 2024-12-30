@@ -4,7 +4,7 @@ icon: laptop
 
 # Lancement du client
 
-Après l'installation de l'application, vous devriez être en capacité de lancer le client à l'aide de la commande suivante :&#x20;
+Après l'installation de l'application, vous devriez être en capacité de lancer le client à l'aide de la commande suivante :
 
 ```
 sae302_client
@@ -16,9 +16,9 @@ Dans le cas où vous n'arrivez pas à lancer le client à l'aide de cette comman
 python ./src/sae302/client
 ```
 
-Vous devriez obtenir la fenêtre suivante :&#x20;
+Vous devriez obtenir la fenêtre suivante :
 
-<figure><img src="../.gitbook/assets/connect_window.png" alt=""><figcaption><p>Fenêtre de connexion au serveur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Fenêtre de connexion au serveur</p></figcaption></figure>
 
 Remplissez les informations, puis connectez vous.
 
@@ -28,9 +28,9 @@ Remplissez les informations, puis connectez vous.
 Des exemples de fichier sont disponible dans `src/sae302/examples`.
 {% endhint %}
 
-Une fois connecté, vous devriez obtenir la fenêtre suivante :&#x20;
+Une fois connecté, vous devriez obtenir la fenêtre suivante :
 
-<figure><img src="../.gitbook/assets/envoi_fichier.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 De cette fenêtre, vous pouvez sélectionner quel fichier envoyer au serveur.
 
@@ -44,4 +44,4 @@ Le temps de l'exécution du programme, une fenêtre s'affichera avec un chronom�
 
 À la fin du programme, vous obtiendrez les logs du programme exécuté.
 
-<div><figure><img src="../.gitbook/assets/temps_execution.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/logs.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>

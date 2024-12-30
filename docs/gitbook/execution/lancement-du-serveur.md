@@ -4,7 +4,7 @@ icon: server
 
 # Lancement du serveur
 
-Après l'installation de l'application, vous devriez être en capacité de lancer le serveur à l'aide de la commande suivante :&#x20;
+Après l'installation de l'application, vous devriez être en capacité de lancer le serveur à l'aide de la commande suivante :
 
 ```
 sae302_server
@@ -16,13 +16,13 @@ Dans le cas où vous n'arrivez pas à lancer le serveur à l'aide de cette comma
 python ./src/sae302/server
 ```
 
-Vous devriez obtenir la sortie suivante :&#x20;
+Vous devriez obtenir la sortie suivante :
 
-<figure><img src="../.gitbook/assets/launch_server.png" alt=""><figcaption><p>Lancement du serveur à partir de l'alias de script</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Lancement du serveur à partir de l'alias de script</p></figcaption></figure>
 
-Vous pouvez spécifier un nombre avec ce script pour lancer le serveur un port différent :&#x20;
+Vous pouvez spécifier un nombre avec ce script pour lancer le serveur un port différent :
 
-<figure><img src="../.gitbook/assets/launch_server_port.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Vous ne pouvez pas faire Ctrl+C sur Windows lors de l'utilisation du serveur.
@@ -36,7 +36,7 @@ Pour éteindre le serveur, vous devez fermer votre terminal.
 
 Le serveur va automatiquement découvrir quel fichiers il peut exécuter en fonction des programmes disponible sur le système.
 
-À ce jour, le serveur peut exécuter des fichiers de type :&#x20;
+À ce jour, le serveur peut exécuter des fichiers de type :
 
 * Python (Requiert la commande `python`)
 * Java (Requiert la commande `java`)
